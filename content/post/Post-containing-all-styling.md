@@ -21,8 +21,9 @@ draft: false
     - [Code](#code)
 
 
-**Note:** This document is itself written using Markdown; you
-can [see the source for it by adding '.text' to the URL](/projects/markdown/syntax.text).
+**Note:** This markdown file example  was taken from [here](https://github.com/mxstbr/markdown-test-file/tree/master).
+
+----
 
 ## Overview
 
