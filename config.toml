@@ -1,4 +1,4 @@
-baseURL = 'http://luissousarego.github.io/'
+baseURL = 'http://luisrego.com/ardeidae-demo/'
 languageCode = 'en-us'
 title = 'Ardeidae Theme Demo'
 theme = 'Ardeidae'
@@ -6,3 +6,4 @@ theme = 'Ardeidae'
 [params]
 email="example@email.com"
 dateform="2006-01-02"
+github = "https://github.com/LuisSousaRego"
