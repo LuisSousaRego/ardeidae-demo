@@ -1,4 +1,4 @@
-baseURL = 'https://luisrego.com/ardeidae-demo/'
+baseURL = 'luisrego.com/ardeidae-demo/'
 languageCode = 'en-us'
 title = 'Ardeidae Theme Demo'
 theme = 'Ardeidae'
